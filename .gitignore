@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+input/
+output/
+params.json
+desktop.ini
